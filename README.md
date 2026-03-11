@@ -1,1 +1,2 @@
-# PF-Assignment
+This project is a Java program that checks whether a 5×5 matrix entered by the user is a Magic Matrix or not.
+The program prompts the user to input 25 numbers to form a 5×5 matrix. It then calculates the sum of each row, each column, and both main diagonals. If all of these sums are equal, the matrix is identified as a Magic Matrix. Otherwise, the program indicates that the given matrix is not a Magic Matrix.
